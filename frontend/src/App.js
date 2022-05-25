@@ -1,8 +1,9 @@
+import TestPage from './pages/TestPage'
 
 function App() {
   return (
     <>
-      Hello World.
+      <TestPage />
     </>
   );
 }
